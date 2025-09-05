@@ -1,0 +1,601 @@
+[Script Info]
+Title: Saiyuuki (Alakazam the Great) – Spanish Neutral Subs
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,35,1
+Style: Sign,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,35,1
+Style: Song,Arial,55,&H00FFFFFF,&H000000FF,&H009A4400,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,20,20,35,1
+Style: Top,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.96,0:00:09.22,Sign,,0,0,0,,Seleccionado por el Ministerio de Educación, Ciencia y Cultura
+Dialogue: 0,0:00:23.31,0:00:33.12,Sign,,0,0,0,,\NSaiyuuki
+Dialogue: 0,0:00:38.91,0:00:43.54,Credits,,0,0,0,,Traducción: convexity, Magistral\NTemporización: M74\NEdición y estilo: Collectr\NControl de calidad: Calyrica, konnakude\NCodificación: ARR\NAgradecimientos: Al_Sleeper
+Dialogue: 0,0:02:10.34,0:02:13.61,Default,,0,0,0,,¿Qué es esto? ¡Es increíble!
+Dialogue: 0,0:02:16.07,0:02:21.18,Default,,0,0,0,,¡Eh, tú! ¡Dios de China, este es tu problema!
+Dialogue: 0,0:02:32.30,0:02:34.40,Default,,0,0,0,,¿Pasó algo?
+Dialogue: 0,0:02:34.66,0:02:41.29,Default,,0,0,0,,Acaba de nacer un mono extraño desde una piedra.
+Dialogue: 0,0:02:41.29,0:02:42.91,Default,,0,0,0,,Vamos a ver, vamos a ver.
+Dialogue: 0,0:02:46.30,0:02:47.77,Default,,0,0,0,,Ah, eso.
+Dialogue: 0,0:02:48.30,0:02:51.20,Default,,0,0,0,,Parece un mono normal.
+Dialogue: 0,0:02:51.20,0:02:54.58,Default,,0,0,0,,¿Deberíamos reportarlo?
+Dialogue: 0,0:02:54.58,0:03:01.54,Default,,0,0,0,,¿Para qué? No creo que represente un peligro.
+Dialogue: 0,0:04:24.14,0:04:26.72,Default,,0,0,0,,¡Ay! ¡Duele! ¡Duele!
+Dialogue: 0,0:05:27.84,0:05:36.93,Song,,0,0,0,,Con la brisa alegre y suave
+Dialogue: 0,0:05:37.82,0:05:47.71,Song,,0,0,0,,la luz del sol se mueve al brillar
+Dialogue: 0,0:05:47.71,0:05:52.66,Song,,0,0,0,,¿Quién está allá arriba?
+Dialogue: 0,0:05:52.66,0:05:57.52,Song,,0,0,0,,¿Quién está allá arriba?
+Dialogue: 0,0:05:57.52,0:06:08.66,Song,,0,0,0,,Viajando entre las ramas de los árboles
+Dialogue: 0,0:06:08.66,0:06:22.49,Song,,0,0,0,,una luz inocente
+Dialogue: 0,0:06:25.09,0:06:26.83,Default,,0,0,0,,Nací en esta montaña.
+Dialogue: 0,0:06:27.29,0:06:30.21,Default,,0,0,0,,¿Cómo te llamas?
+Dialogue: 0,0:06:31.49,0:06:34.06,Default,,0,0,0,,¿Mi nombre? No tengo uno.
+Dialogue: 0,0:06:34.31,0:06:37.56,Default,,0,0,0,,¿Y tus padres?
+Dialogue: 0,0:06:38.02,0:06:39.82,Default,,0,0,0,,No tengo.
+Dialogue: 0,0:06:40.23,0:06:41.93,Default,,0,0,0,,¿Y amigos?
+Dialogue: 0,0:06:42.68,0:06:44.49,Default,,0,0,0,,Nada.
+Dialogue: 0,0:06:44.89,0:06:48.91,Default,,0,0,0,,Entonces... ¡seré tu amiga!
+Dialogue: 0,0:06:50.45,0:06:53.88,Default,,0,0,0,,¿Cómo te llamas?
+Dialogue: 0,0:06:53.88,0:06:55.69,Default,,0,0,0,,Me llamo Rin Rin.
+Dialogue: 0,0:06:57.81,0:06:59.08,Default,,0,0,0,,Rin Rin...
+Dialogue: 0,0:07:24.60,0:07:27.95,Song,,0,0,0,,¿Ustedes saben
+Dialogue: 0,0:07:27.15,0:07:28.25,Song Overlap,,0,0,0,,Aúllen, aúllen!
+Dialogue: 0,0:07:27.95,0:07:34.90,Song,,0,0,0,,qué tan profundo es este pozo?
+Dialogue: 0,0:07:31.77,0:07:37.62,Song Overlap,,0,0,0,,qué tan profundo es este pozo
+Dialogue: 0,0:07:38.27,0:07:42.54,Song,,0,0,0,,Sé valiente y salta
+Dialogue: 0,0:07:42.54,0:07:44.43,Song,,0,0,0,,Sí, salta de una vez
+Dialogue: 0,0:07:44.43,0:07:47.63,Song,,0,0,0,,Si te atreves a saltar
+Dialogue: 0,0:07:47.63,0:07:53.72,Song,,0,0,0,,serás nuestro rey
+Dialogue: 0,0:07:53.72,0:07:58.79,Song,,0,0,0,,Vamos, adelante
+Dialogue: 0,0:08:00.12,0:08:03.13,Song,,0,0,0,,¿Qué tal, mono gigante?
+Dialogue: 0,0:08:03.13,0:08:06.17,Song,,0,0,0,,Te crees valiente, pero eres un cobarde
+Dialogue: 0,0:08:06.17,0:08:09.13,Song,,0,0,0,,¿Y el siguiente? ¡Tampoco puede!
+Dialogue: 0,0:08:09.13,0:08:11.80,Song,,0,0,0,,¿Nadie se atreve? ¡Aúllen, aúllen!
+Dialogue: 0,0:08:11.80,0:08:17.88,Song,,0,0,0,,Ninguno tiene el valor de hacerlo
+Dialogue: 0,0:08:18.40,0:08:21.40,Song,,0,0,0,,Miren al mono de piedra que se acerca
+Dialogue: 0,0:08:21.40,0:08:24.41,Song,,0,0,0,,No puedes, así que retírate
+Dialogue: 0,0:08:24.41,0:08:27.21,Song,,0,0,0,,¿No tienes miedo? ¡Cuidado!
+Dialogue: 0,0:08:27.21,0:08:30.14,Song,,0,0,0,,El mono de piedra está loco
+Dialogue: 0,0:08:30.14,0:08:32.68,Song,,0,0,0,,¡Prepárate! ¡Aúllen, aúllen!
+Dialogue: 0,0:08:32.68,0:08:39.27,Song,,0,0,0,,Vamos, ¿qué harás?
+Dialogue: 0,0:08:39.90,0:08:45.15,Song,,0,0,0,,Vamos, vamos, vamos
+Dialogue: 0,0:09:09.60,0:09:10.17,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:09:10.75,0:09:11.97,Default,,0,0,0,,¡El agua está arriba!
+Dialogue: 0,0:09:19.35,0:09:22.35,Sign,,0,0,0,,Cueva del Telón de Agua
+Dialogue: 0,0:10:20.39,0:10:21.20,Default,,0,0,0,,¡Salió!
+Dialogue: 0,0:10:23.50,0:10:25.54,Default,,0,0,0,,Ah, qué alivio.
+Dialogue: 0,0:10:26.84,0:10:30.09,Default,,0,0,0,,¡Eh, ven aquí!
+Dialogue: 0,0:10:33.88,0:10:35.43,Default,,0,0,0,,¡Él es nuestro rey!
+Dialogue: 0,0:10:35.12,0:10:36.18,Overlap,,0,0,0,,Nuestro rey.
+Dialogue: 0,0:11:24.74,0:11:25.98,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:11:25.98,0:11:27.73,Default,,0,0,0,,¿Quieres que me coma esto?
+Dialogue: 0,0:11:35.76,0:11:38.21,Default,,0,0,0,,Qué preocupante.
+Dialogue: 0,0:11:39.03,0:11:40.91,Default,,0,0,0,,No podemos hacer nada.
+Dialogue: 0,0:11:52.66,0:11:53.76,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,0:11:54.98,0:11:56.03,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:11:56.03,0:11:57.34,Default,,0,0,0,,Esto es un humano.
+Dialogue: 0,0:11:57.74,0:12:00.72,Default,,0,0,0,,¿Un humano? ¿Qué es un humano?
+Dialogue: 0,0:12:01.00,0:12:04.89,Default,,0,0,0,,La criatura más inteligente de la Tierra.
+Dialogue: 0,0:12:04.89,0:12:08.39,Default,,0,0,0,,¿Qué? ¿La más inteligente? ¡Mentira!
+Dialogue: 0,0:12:08.72,0:12:11.15,Default,,0,0,0,,¿Quién puede ser más listo que yo?
+Dialogue: 0,0:12:11.15,0:12:13.79,Default,,0,0,0,,No miento. Es verdad.
+Dialogue: 0,0:12:13.79,0:12:18.52,Default,,0,0,0,,Los humanos son mucho, mucho más listos que nosotros.
+Dialogue: 0,0:12:18.52,0:12:20.79,Default,,0,0,0,,¡Humph! ¡Tonterías!
+Dialogue: 0,0:13:37.44,0:13:40.51,Default,,0,0,0,,Humano... humano... humano... ¡humano!
+Dialogue: 0,0:13:43.05,0:13:45.28,Default,,0,0,0,,¿Cómo puedo ser mejor que los humanos?
+Dialogue: 0,0:13:49.24,0:13:50.62,Default,,0,0,0,,Me voy de viaje.
+Dialogue: 0,0:13:51.74,0:13:52.71,Default,,0,0,0,,¿Un viaje?
+Dialogue: 0,0:13:52.71,0:13:53.61,Default,,0,0,0,,Así es.
+Dialogue: 0,0:13:54.46,0:13:57.04,Default,,0,0,0,,Iré de viaje y seré más sabio que los humanos.
+Dialogue: 0,0:13:57.89,0:14:00.30,Default,,0,0,0,,Pero... ¡eso es imposible!
+Dialogue: 0,0:14:00.30,0:14:01.21,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,0:14:01.63,0:14:03.07,Default,,0,0,0,,¿Qué sabes tú?
+Dialogue: 0,0:14:03.81,0:14:06.24,Default,,0,0,0,,¡Buscaré a un ermitaño y me entrenaré con él!
+Dialogue: 0,0:14:06.24,0:14:09.52,Default,,0,0,0,,¡Entonces llévame contigo!
+Dialogue: 0,0:14:09.52,0:14:11.35,Default,,0,0,0,,¡Ni hablar! Eres una chica.
+Dialogue: 0,0:14:53.89,0:15:01.24,Song,,0,0,0,,Te fuiste en busca de tus sueños
+Dialogue: 0,0:15:01.24,0:15:08.52,Song,,0,0,0,,Seguro que eso te hará feliz
+Dialogue: 0,0:15:08.52,0:15:15.90,Song,,0,0,0,,¿Pero qué hay de mí?
+Dialogue: 0,0:15:15.90,0:15:23.27,Song,,0,0,0,,¿Me quedaré sola?
+Dialogue: 0,0:15:23.87,0:15:30.33,Song,,0,0,0,,Regresarás algún día
+Dialogue: 0,0:15:30.97,0:15:38.07,Song,,0,0,0,,¿Quién sabe cuándo será?
+Dialogue: 0,0:15:38.07,0:15:46.97,Song,,0,0,0,,Esperaré aquí, completamente sola
+Dialogue: 0,0:17:01.35,0:17:02.69,Sign,,0,0,0,,Cueva de las Tres Estrellas
+Dialogue: 0,0:17:08.06,0:17:11.03,Default,,0,0,0,,¡Hola! ¡Por favor, abran!
+Dialogue: 0,0:17:12.59,0:17:15.15,Default,,0,0,0,,¿Qué? Solo es un mono.
+Dialogue: 0,0:17:15.15,0:17:16.50,Default,,0,0,0,,¿Puedo ver al ermitaño?
+Dialogue: 0,0:17:16.50,0:17:18.74,Default,,0,0,0,,¿Por qué? ¿Para qué?
+Dialogue: 0,0:17:18.74,0:17:20.12,Default,,0,0,0,,¡Quiero estudiar bajo su tutela!
+Dialogue: 0,0:17:20.12,0:17:24.63,Default,,0,0,0,,¿¿Estudiar?? ¡Deja de burlarte! ¡Lárgate!
+Dialogue: 0,0:17:38.09,0:17:39.66,Default,,0,0,0,,¿Sigues aquí?
+Dialogue: 0,0:17:39.66,0:17:42.94,Default,,0,0,0,,¡Eh! ¡Déjame verlo al menos!
+Dialogue: 0,0:17:42.94,0:17:45.43,Default,,0,0,0,,¡No es no!
+Dialogue: 0,0:17:45.97,0:17:47.40,Default,,0,0,0,,¡Vete!
+Dialogue: 0,0:17:47.78,0:17:48.73,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:17:49.59,0:17:52.74,Default,,0,0,0,,Este camino lleva... afuera.
+Dialogue: 0,0:18:10.50,0:18:12.09,Default,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:18:12.58,0:18:15.47,Default,,0,0,0,,Soy un mono. ¡Por favor, permítame ser su discípulo!
+Dialogue: 0,0:18:15.99,0:18:21.27,Default,,0,0,0,,¿Qué? No puedo aceptar a un mono como discípulo.
+Dialogue: 0,0:18:21.96,0:18:23.98,Default,,0,0,0,,Ahora, vete a casa.
+Dialogue: 0,0:18:25.12,0:18:28.15,Default,,0,0,0,,¡No! ¡No te lleves ese libro!
+Dialogue: 0,0:18:28.95,0:18:31.22,Default,,0,0,0,,¡Eh, déjalo!
+Dialogue: 0,0:18:32.31,0:18:34.94,Default,,0,0,0,,¡Eso... devuélvelo ahora mismo!
+Dialogue: 0,0:18:36.27,0:18:38.45,Default,,0,0,0,,¡Acepta mi solicitud o lo destruyo!
+Dialogue: 0,0:18:38.45,0:18:41.70,Default,,0,0,0,,¡Eh, espera, espera! ¡Estaré en problemas si lo rompes!
+Dialogue: 0,0:18:42.09,0:18:43.95,Default,,0,0,0,,¿Entonces me aceptas?
+Dialogue: 0,0:18:44.68,0:18:49.42,Default,,0,0,0,,Bueno, qué criatura tan descarada.
+Dialogue: 0,0:19:44.62,0:19:48.04,Default,,0,0,0,,Mono de Piedra, ven conmigo.
+Dialogue: 0,0:19:50.62,0:19:55.77,Default,,0,0,0,,Te he enseñado todo lo que podía.
+Dialogue: 0,0:19:56.74,0:20:00.41,Default,,0,0,0,,Has llegado muy lejos.
+Dialogue: 0,0:20:00.85,0:20:05.18,Default,,0,0,0,,Solo tú has logrado aprender todos mis hechizos.
+Dialogue: 0,0:20:06.12,0:20:11.39,Default,,0,0,0,,Desde hoy, te llamarás Son Gokuu.
+Dialogue: 0,0:20:11.39,0:20:12.08,Default,,0,0,0,,Sí, maestro.
+Dialogue: 0,0:20:12.48,0:20:16.13,Default,,0,0,0,,Toma este pergamino de hechizos.
+Dialogue: 0,0:20:22.46,0:20:26.98,Song,,0,0,0,,Yo soy Son Gokuu, Son Gokuu
+Dialogue: 0,0:21:04.68,0:21:08.43,Sign,,0,0,0,,Cueva de las Tres Estrellas
+Dialogue: 0,0:21:08.60,0:21:09.06,Sign,,0,0,0,,Altar Taoísta Wuji
+Dialogue: 0,0:21:35.36,0:21:38.21,Song,,0,0,0,,Queridos pajarillos
+Dialogue: 0,0:21:38.21,0:21:41.72,Song,,0,0,0,,He cruzado montañas, ríos y valles
+Dialogue: 0,0:21:41.72,0:21:47.43,Song,,0,0,0,,y al fin he llegado aquí
+Dialogue: 0,0:21:52.98,0:21:56.38,Song,,0,0,0,,Amables pajarillos
+Dialogue: 0,0:21:56.38,0:22:08.21,Song,,0,0,0,,Por favor, haganle saber que estoy aquí
+Dialogue: 0,0:22:13.42,0:22:13.91,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,0:22:15.84,0:22:16.98,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,0:22:20.25,0:22:21.84,Default,,0,0,0,,¡Gracias por venir!
+Dialogue: 0,0:22:22.15,0:22:24.52,Default,,0,0,0,,¡Te extrañé mucho!
+Dialogue: 0,0:22:24.52,0:22:26.01,Default,,0,0,0,,¡Yo también!
+Dialogue: 0,0:22:26.32,0:22:28.76,Default,,0,0,0,,Ha pasado tanto tiempo.
+Dialogue: 0,0:22:29.58,0:22:33.22,Default,,0,0,0,,Desde que te fuiste, los castaños han dado fruto cinco veces.
+Dialogue: 0,0:22:34.20,0:22:37.52,Default,,0,0,0,,Toma, los castaños que te gustaban.
+Dialogue: 0,0:22:37.64,0:22:40.44,Default,,0,0,0,,¿Ah, solo castaños?
+Dialogue: 0,0:22:52.88,0:22:57.00,Song,,0,0,0,,Yo soy Son Gokuu, Son Gokuu
+Dialogue: 0,0:22:57.40,0:23:01.41,Song,,0,0,0,,Arranco un pelo de mi cuerpo
+Dialogue: 0,0:23:01.41,0:23:05.88,Song,,0,0,0,,Le sopló y se convierte en lo que sea
+Dialogue: 0,0:23:05.88,0:23:10.51,Song,,0,0,0,,Qué hechizo tan misterioso
+Dialogue: 0,0:23:10.51,0:23:14.18,Song,,0,0,0,,No te sorprendas
+Dialogue: 0,0:23:14.18,0:23:18.91,Song,,0,0,0,,Yo soy Son Gokuu, Son Gokuu
+Dialogue: 0,0:23:18.91,0:23:23.97,Song,,0,0,0,,Un mono travieso como siempre
+Dialogue: 0,0:23:26.43,0:23:29.31,Default,,0,0,0,,Realmente no has cambiado.
+Dialogue: 0,0:23:30.72,0:23:31.84,Default,,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:23:31.84,0:23:33.70,Default,,0,0,0,,Nada.
+Dialogue: 0,0:23:34.45,0:23:36.37,Default,,0,0,0,,¿Quieres más?
+Dialogue: 0,0:23:36.37,0:23:39.50,Default,,0,0,0,,Está bien. Puedo prepararte un banquete.
+Dialogue: 0,0:23:39.50,0:23:41.59,Default,,0,0,0,,No necesito un banquete.
+Dialogue: 0,0:23:41.92,0:23:46.91,Default,,0,0,0,,Escucha. Mi maestro a veces traía frutas del cielo.
+Dialogue: 0,0:23:46.91,0:23:48.01,Default,,0,0,0,,Te conseguiré algunas.
+Dialogue: 0,0:23:48.01,0:23:49.85,Default,,0,0,0,,¡No puedes hacer eso!
+Dialogue: 0,0:23:49.85,0:23:51.65,Default,,0,0,0,,¡Buda te castigará!
+Dialogue: 0,0:23:51.65,0:23:54.47,Default,,0,0,0,,No pasa nada. ¡Espérame!
+Dialogue: 0,0:25:33.45,0:25:35.96,Default,,0,0,0,,¡Wow! ¡Esto es increíble!
+Dialogue: 0,0:25:43.30,0:25:45.25,Default,,0,0,0,,¡Ladrón!
+Dialogue: 0,0:25:47.04,0:25:49.46,Default,,0,0,0,,¿Me llamas ladrón? ¡Toma esto!
+Dialogue: 0,0:25:53.74,0:25:56.72,Default,,0,0,0,,¡Policía! ¡Emergencia!
+Dialogue: 0,0:25:56.72,0:26:02.06,Default,,0,0,0,,¡El criminal intenta escapar! ¡Persiganlo!
+Dialogue: 0,0:26:32.01,0:26:34.44,Default,,0,0,0,,A-ay...
+Dialogue: 0,0:26:38.22,0:26:39.76,Default,,0,0,0,,¿Q-Quién diablos eres?!
+Dialogue: 0,0:26:40.22,0:26:42.02,Default,,0,0,0,,¡Soy el General Kinsei!
+Dialogue: 0,0:26:51.74,0:26:56.49,Default,,0,0,0,,Entonces te mostraré el poder del Nyoibou.
+Dialogue: 0,0:26:57.57,0:27:00.16,Default,,0,0,0,,¡Crece!
+Dialogue: 0,0:27:03.16,0:27:06.04,Default,,0,0,0,,¿Eh? ¿Dónde se fue?
+Dialogue: 0,0:27:29.54,0:27:35.36,Default,,0,0,0,,Ya veo. ¿Nyoibou? ¡Me gusta!
+Dialogue: 0,0:27:35.36,0:27:36.86,Default,,0,0,0,,¡Detente!
+Dialogue: 0,0:27:40.08,0:27:45.25,Default,,0,0,0,,Por orden del Emperador Celestial, ¡yo, Jiroushinkun, he venido a detenerte!
+Dialogue: 0,0:29:10.95,0:29:12.54,Default,,0,0,0,,¿Q-Quién eres tú?
+Dialogue: 0,0:29:12.94,0:29:14.38,Default,,0,0,0,,¿Quién soy yo?
+Dialogue: 0,0:29:14.71,0:29:20.53,Default,,0,0,0,,Eres un chico enérgico, Gokuu,
+Dialogue: 0,0:29:20.53,0:29:25.51,Default,,0,0,0,,pero no sobreestimes el poco poder que tienes.
+Dialogue: 0,0:29:25.51,0:29:33.93,Default,,0,0,0,,¿Qué? ¡Puedo transformarme en cualquier cosa y volar 108.000 ri en un solo paso!
+Dialogue: 0,0:29:35.75,0:29:41.35,Default,,0,0,0,,Entonces, ¿por qué no intentas volar desde la palma de mi mano?
+Dialogue: 0,0:29:41.35,0:29:45.82,Default,,0,0,0,,Veamos qué tan lejos puedes llegar desde ahí.
+Dialogue: 0,0:29:46.96,0:29:49.53,Default,,0,0,0,,¿Te burlas de mí? Está bien.
+Dialogue: 0,0:29:49.99,0:29:53.33,Default,,0,0,0,,¡Eh! ¡Mira bien!
+Dialogue: 0,0:30:09.29,0:30:13.39,Default,,0,0,0,,Esta distancia... debería ser suficiente.
+Dialogue: 0,0:30:22.35,0:30:24.47,Default,,0,0,0,,¿Qué son estos pilares?
+Dialogue: 0,0:30:24.47,0:30:26.98,Default,,0,0,0,,Está bien, supongo que dejaré una marca.
+Dialogue: 0,0:30:45.26,0:30:52.29,Default,,0,0,0,,¡Gokuu! ¿Ahora entiendes tu propia fuerza?
+Dialogue: 0,0:30:52.29,0:30:54.27,Default,,0,0,0,,¡M-Maldición!
+Dialogue: 0,0:30:56.48,0:30:58.32,Default,,0,0,0,,¡Eres Buda!
+Dialogue: 0,0:30:58.32,0:30:59.94,Default,,0,0,0,,¡Tonto!
+Dialogue: 0,0:31:01.04,0:31:05.36,Default,,0,0,0,,Como castigo, estarás encerrado en el Monte Gogyou.
+Dialogue: 0,0:31:17.64,0:31:21.25,Default,,0,0,0,,¡Déjenme salir, idiotas! ¡Ábranme!
+Dialogue: 0,0:31:27.20,0:31:32.44,Default,,0,0,0,,Mientras este sello permanezca en esta piedra, no podrás salir.
+Dialogue: 0,0:31:30.43,0:31:34.22,Sign,,0,0,0,,Om Mani Padme Hum
+Dialogue: 0,0:31:32.44,0:31:37.11,Default,,0,0,0,,Quédate ahí por un tiempo y reflexiona sobre tus actos.
+Dialogue: 0,0:31:37.11,0:31:41.13,Default,,0,0,0,,¡Eres un idiota, Buda! ¡Imbécil, tonto!
+Dialogue: 0,0:31:59.71,0:32:01.00,Default,,0,0,0,,Qué frío...
+Dialogue: 0,0:32:04.98,0:32:07.23,Default,,0,0,0,,¡Fuego, aparece!
+Dialogue: 0,0:32:13.29,0:32:15.78,Default,,0,0,0,,¡Comida, ven!
+Dialogue: 0,0:32:18.39,0:32:19.79,Default,,0,0,0,,No funciona.
+Dialogue: 0,0:32:22.07,0:32:25.86,Default,,0,0,0,,¡Gokuu-san!
+Dialogue: 0,0:32:32.07,0:32:33.12,Default,,0,0,0,,Rin Rin.
+Dialogue: 0,0:32:43.96,0:32:45.05,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,0:32:47.50,0:32:51.17,Default,,0,0,0,,Te ves agotado. Pobre...
+Dialogue: 0,0:32:51.78,0:32:55.56,Default,,0,0,0,,Te traje esto. Por favor, cómelo.
+Dialogue: 0,0:32:56.67,0:32:57.93,Default,,0,0,0,,¡No lo quiero!
+Dialogue: 0,0:32:57.93,0:32:59.07,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:32:59.93,0:33:01.06,Default,,0,0,0,,¡Simplemente no lo quiero!
+Dialogue: 0,0:33:01.28,0:33:04.56,Default,,0,0,0,,¡No es momento para actuar así!
+Dialogue: 0,0:33:04.56,0:33:06.06,Default,,0,0,0,,Cállate.
+Dialogue: 0,0:33:07.86,0:33:08.83,Default,,0,0,0,,¡Toma y vete!
+Dialogue: 0,0:33:08.83,0:33:10.13,Default,,0,0,0,,Qué difícil eres.
+Dialogue: 0,0:33:10.96,0:33:13.01,Default,,0,0,0,,Por eso siempre te metes en problemas.
+Dialogue: 0,0:33:13.40,0:33:16.75,Default,,0,0,0,,Oye, ¿por qué no eres más obediente?
+Dialogue: 0,0:33:16.75,0:33:18.58,Default,,0,0,0,,¿Por qué no? Por favor.
+Dialogue: 0,0:33:20.17,0:33:25.03,Default,,0,0,0,,Si te vuelves obediente, Buda te perdonará.
+Dialogue: 0,0:33:25.61,0:33:29.51,Default,,0,0,0,,¡Ni hablar! ¡No necesito tu lástima!
+Dialogue: 0,0:33:37.88,0:33:40.83,Default,,0,0,0,,Ahora... ¡vete rápido!
+Dialogue: 0,0:33:42.98,0:33:45.23,Default,,0,0,0,,Bueno... me voy.
+Dialogue: 0,0:33:46.63,0:33:48.23,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:34:41.27,0:34:42.33,Default,,0,0,0,,Rin Rin...
+Dialogue: 0,0:35:04.32,0:35:07.60,Default,,0,0,0,,¡Rin Rin! ¡Recupera la conciencia! ¡Te vas a morir!
+Dialogue: 0,0:35:15.49,0:35:17.61,Default,,0,0,0,,¡Rin Rin! ¡Rin Rin!
+Dialogue: 0,0:35:22.74,0:35:26.01,Default,,0,0,0,,Gokuu-san...
+Dialogue: 0,0:35:26.92,0:35:29.52,Default,,0,0,0,,¡Rin Rin! ¡Levántate!
+Dialogue: 0,0:35:29.52,0:35:32.34,Default,,0,0,0,,No te duermas. ¡No te duermas!
+Dialogue: 0,0:35:39.04,0:35:41.18,Default,,0,0,0,,Rin Rin.
+Dialogue: 0,0:35:45.41,0:35:47.19,Default,,0,0,0,,Rin Rin.
+Dialogue: 0,0:35:48.93,0:35:50.27,Default,,0,0,0,,Kannon-sama...
+Dialogue: 0,0:35:50.70,0:35:53.50,Default,,0,0,0,,Rin Rin, escúchame con atención.
+Dialogue: 0,0:35:54.17,0:35:59.88,Default,,0,0,0,,Pronto conocerás a un monje viajero llamado Sanzou.
+Dialogue: 0,0:36:00.63,0:36:08.62,Default,,0,0,0,,Este monje recompensará tu corazón amoroso, y Gokuu será liberado de su castigo.
+Dialogue: 0,0:36:08.84,0:36:11.17,Default,,0,0,0,,Entonces, Gokuu...
+Dialogue: 0,0:36:11.50,0:36:14.63,Default,,0,0,0,,Gokuu será perdonado.
+Dialogue: 0,0:36:14.63,0:36:21.65,Default,,0,0,0,,Sin embargo, deberá acompañar a Sanzou hasta la India.
+Dialogue: 0,0:36:23.25,0:36:24.47,Default,,0,0,0,,¿Hasta la India?
+Dialogue: 0,0:36:25.08,0:36:32.27,Default,,0,0,0,,Si realmente deseas que Gokuu siga el camino correcto, debes dejarlo ir, por muy doloroso que sea.
+Dialogue: 0,0:36:34.11,0:36:35.07,Default,,0,0,0,,Entiendo.
+Dialogue: 0,0:36:39.02,0:36:40.35,Default,,0,0,0,,Kannon-sama...
+Dialogue: 0,0:36:51.60,0:36:53.31,Default,,0,0,0,,¡Gran monje Sanzou!
+Dialogue: 0,0:37:03.18,0:37:06.60,Sign,,0,0,0,,Om Mani Padme Hum
+Dialogue: 0,0:37:14.44,0:37:16.11,Sign,,0,0,0,,Om Mani Padme Hum
+Dialogue: 0,0:37:30.30,0:37:31.67,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,0:37:31.67,0:37:32.97,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,0:37:36.20,0:37:44.70,Default,,0,0,0,,¡Ah, estoy libre! ¡Libre! ¡Libre!
+Dialogue: 0,0:37:48.74,0:37:53.02,Default,,0,0,0,,Gokuu... debes ir a la India.
+Dialogue: 0,0:37:53.02,0:37:55.52,Default,,0,0,0,,¿A la India? ¿Por qué?
+Dialogue: 0,0:37:55.52,0:37:59.73,Default,,0,0,0,,Debo viajar allí para recoger los sutras sagrados, y quiero que me acompañes.
+Dialogue: 0,0:37:59.73,0:38:02.82,Default,,0,0,0,,¿Sutras? ¿Acompañarte?
+Dialogue: 0,0:38:03.10,0:38:05.91,Default,,0,0,0,,Así es. Para salvar a la gente del mundo.
+Dialogue: 0,0:38:06.61,0:38:11.83,Default,,0,0,0,,Gokuu, esto es por tu bien. Es el mensaje divino de Kannon-sama.
+Dialogue: 0,0:38:11.83,0:38:13.16,Default,,0,0,0,,¿Mensaje divino?
+Dialogue: 0,0:38:13.80,0:38:15.29,Default,,0,0,0,,¡No me engañarás!
+Dialogue: 0,0:38:15.29,0:38:17.20,Default,,0,0,0,,¿Qué haces? ¡Detente!
+Dialogue: 0,0:38:17.20,0:38:18.25,Default,,0,0,0,,¡Detente, Gokuu!
+Dialogue: 0,0:38:45.52,0:38:47.07,Default,,0,0,0,,Gokuu...
+Dialogue: 0,0:38:53.17,0:38:54.79,Default,,0,0,0,,Perdóname, Gokuu.
+Dialogue: 0,0:38:55.23,0:38:58.54,Default,,0,0,0,,Sin embargo, deseo sinceramente viajar contigo.
+Dialogue: 0,0:38:58.54,0:39:00.71,Default,,0,0,0,,Así que... por favor, entiende.
+Dialogue: 0,0:39:02.28,0:39:04.01,Default,,0,0,0,,E-Está bien.
+Dialogue: 0,0:39:04.26,0:39:06.84,Default,,0,0,0,,¿Entonces vendrás conmigo?
+Dialogue: 0,0:39:07.43,0:39:08.68,Default,,0,0,0,,Sí.
+Dialogue: 0,0:39:08.68,0:39:10.15,Default,,0,0,0,,P-Pero...
+Dialogue: 0,0:39:10.15,0:39:15.82,Default,,0,0,0,,Gokuu, no te preocupes por mí.
+Dialogue: 0,0:39:23.27,0:39:31.80,Song,,0,0,0,,Encenderé recuerdos de ti en mi corazón
+Dialogue: 0,0:39:31.80,0:39:40.51,Song,,0,0,0,,Y te esperaré en silencio
+Dialogue: 0,0:39:40.51,0:39:48.68,Song,,0,0,0,,Para no perderte
+Dialogue: 0,0:39:48.68,0:39:57.08,Song,,0,0,0,,No importa cuán lejos estemos
+Dialogue: 0,0:39:57.08,0:40:05.05,Song,,0,0,0,,Cierro mis ojos
+Dialogue: 0,0:40:05.05,0:40:13.44,Song,,0,0,0,,Y llamo tu nombre, mi amor lejano
+Dialogue: 0,0:40:13.44,0:40:27.59,Song,,0,0,0,,Para que nuestros corazones siempre estén conectados
+Dialogue: 0,0:40:49.73,0:40:51.48,Default,,0,0,0,,¿Ha pasado algo?
+Dialogue: 0,0:40:52.54,0:40:54.67,Default,,0,0,0,,Oh, no vas a creer lo que ocurrió.
+Dialogue: 0,0:40:56.43,0:40:58.41,Default,,0,0,0,,¿Será karma?
+Dialogue: 0,0:40:58.89,0:41:04.79,Default,,0,0,0,,Un monstruo terrible ha puesto sus ojos en mi hija.
+Dialogue: 0,0:41:04.79,0:41:05.88,Default,,0,0,0,,¿Un monstruo?
+Dialogue: 0,0:41:05.88,0:41:06.83,Default,,0,0,0,,Sí.
+Dialogue: 0,0:41:07.63,0:41:13.55,Default,,0,0,0,,Este monstruo quiere casarse con mi hija.
+Dialogue: 0,0:41:13.99,0:41:18.31,Default,,0,0,0,,Planea llevársela esta noche, pase lo que pase.
+Dialogue: 0,0:41:19.48,0:41:20.89,Default,,0,0,0,,Qué gracioso.
+Dialogue: 0,0:41:20.89,0:41:24.63,Default,,0,0,0,,No te rías de la desgracia ajena.
+Dialogue: 0,0:41:24.63,0:41:28.32,Default,,0,0,0,,Pero maestro, solo tenemos que derrotar a ese monstruo, ¿no?
+Dialogue: 0,0:41:29.78,0:41:32.29,Default,,0,0,0,,¡Déjalo en mis manos!
+Dialogue: 0,0:41:36.58,0:41:37.89,Default,,0,0,0,,Disculpen.
+Dialogue: 0,0:41:51.81,0:41:55.54,Default,,0,0,0,,Padre, ¡estoy tan contenta!
+Dialogue: 0,0:41:55.54,0:41:59.41,Default,,0,0,0,,Esta persona tomará mi lugar.
+Dialogue: 0,0:41:59.90,0:42:04.02,Default,,0,0,0,,¿En serio? ¡Debemos agradecerle!
+Dialogue: 0,0:42:04.02,0:42:06.23,Default,,0,0,0,,Qué alivio, qué alivio.
+Dialogue: 0,0:42:09.37,0:42:13.28,Default,,0,0,0,,¿Qué pasa? ¿Te has vuelto loco?
+Dialogue: 0,0:42:50.95,0:42:52.76,Default,,0,0,0,,¿Señorita?
+Dialogue: 0,0:42:56.10,0:42:59.53,Default,,0,0,0,,Por fin podremos casarnos.
+Dialogue: 0,0:42:59.53,0:43:03.87,Default,,0,0,0,,Oye, mírame un segundo.
+Dialogue: 0,0:43:04.25,0:43:07.44,Default,,0,0,0,,¿No estás feliz con nuestra boda?
+Dialogue: 0,0:43:08.68,0:43:13.07,Default,,0,0,0,,¡Me arreglé y me vestí especialmente por ti!
+Dialogue: 0,0:44:03.73,0:44:07.73,Default,,0,0,0,,Vamos, alégrate.
+Dialogue: 0,0:44:07.73,0:44:11.15,Default,,0,0,0,,¡Me estoy esforzando por ti!
+Dialogue: 0,0:44:11.88,0:44:15.36,Default,,0,0,0,,¡No te pedí que cambiaras de ropa!
+Dialogue: 0,0:44:18.63,0:44:21.12,Default,,0,0,0,,¿Entonces por qué estás enojada?
+Dialogue: 0,0:44:21.66,0:44:24.58,Default,,0,0,0,,¡No soporto lo necio que eres!
+Dialogue: 0,0:44:24.79,0:44:29.45,Default,,0,0,0,,Otro hombre llamado Son Gokuu vino y me pidió la mano.
+Dialogue: 0,0:44:30.32,0:44:34.01,Default,,0,0,0,,Nunca he oído hablar de ese tipo.
+Dialogue: 0,0:44:36.35,0:44:43.03,Default,,0,0,0,,Es mucho más inteligente que tú, y también más atractivo.
+Dialogue: 0,0:44:43.95,0:44:46.16,Default,,0,0,0,,¿Y qué?
+Dialogue: 0,0:44:47.61,0:44:50.32,Default,,0,0,0,,Parece solo un niño mimado.
+Dialogue: 0,0:44:52.93,0:44:57.01,Default,,0,0,0,,¡Es muy fuerte!
+Dialogue: 0,0:44:57.40,0:45:00.95,Default,,0,0,0,,No puedes saberlo.
+Dialogue: 0,0:45:02.66,0:45:11.14,Default,,0,0,0,,Lo golpearé, lo pisotearé, lo aplastaré, lo convertiré en galleta de arroz y me lo comeré.
+Dialogue: 0,0:45:11.66,0:45:15.50,Default,,0,0,0,,Maldito. Ya estoy harto.
+Dialogue: 0,0:45:15.50,0:45:20.85,Default,,0,0,0,,No te enojes. No hablaba de ti.
+Dialogue: 0,0:45:21.19,0:45:23.18,Default,,0,0,0,,¿Qué? Tú...
+Dialogue: 0,0:45:23.18,0:45:25.17,Default,,0,0,0,,¡Soy ese Gokuu!
+Dialogue: 0,0:45:40.73,0:45:41.86,Default,,0,0,0,,¡Kintoun!
+Dialogue: 0,0:46:32.20,0:46:37.17,Default,,0,0,0,,¡Oye, niño! ¿Dónde están mis hermanos Kinkaku y Ginkaku?
+Dialogue: 0,0:46:37.17,0:46:40.49,Default,,0,0,0,,¡No soy un niño! ¡Soy un invitado!
+Dialogue: 0,0:46:40.49,0:46:41.71,Default,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:46:42.39,0:46:47.89,Default,,0,0,0,,Soy Cho Hakkai, su hermanastro.
+Dialogue: 0,0:46:49.39,0:46:51.54,Default,,0,0,0,,Disculpa mi descortesía.
+Dialogue: 0,0:46:51.54,0:46:56.90,Default,,0,0,0,,Soy un simple sirviente llamado Shouryuu, del gran Gyuumaou de la Montaña de Fuego.
+Dialogue: 0,0:46:58.18,0:47:01.98,Default,,0,0,0,,¡Eh! ¡Hermanos!
+Dialogue: 0,0:47:06.54,0:47:08.53,Default,,0,0,0,,¡Eh! ¡Abrid, abrid!
+Dialogue: 0,0:47:20.50,0:47:22.76,Default,,0,0,0,,Bien. ¡Ahora traigan al monstruo cerdo!
+Dialogue: 0,0:47:22.76,0:47:24.14,Default,,0,0,0,,Así que tú eres...
+Dialogue: 0,0:47:24.14,0:47:25.69,Default,,0,0,0,,...el que interrumpió...
+Dialogue: 0,0:47:25.69,0:47:27.05,Default,,0,0,0,,...¡la boda de Hakkai!
+Dialogue: 0,0:47:58.86,0:47:59.58,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,0:47:59.86,0:48:00.92,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:48:03.20,0:48:05.80,Default,,0,0,0,,¡Gokuu, te lo mereces!
+Dialogue: 0,0:48:06.19,0:48:10.80,Default,,0,0,0,,Tu cuerpo se derretirá en cualquier momento.
+Dialogue: 0,0:48:27.92,0:48:29.12,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:48:41.58,0:48:44.29,Default,,0,0,0,,Qué frasco tan bonito.
+Dialogue: 0,0:48:44.92,0:48:48.30,Default,,0,0,0,,En cuanto respondió, ¡fue absorbido!
+Dialogue: 0,0:48:52.21,0:48:55.89,Default,,0,0,0,,Una vez dentro, los hechizos de Gokuu...
+Dialogue: 0,0:48:55.89,0:48:57.94,Default,,0,0,0,,...¡no servirán de nada!
+Dialogue: 0,0:48:57.94,0:49:01.31,Default,,0,0,0,,Ya debería estar...
+Dialogue: 0,0:49:01.31,0:49:03.56,Default,,0,0,0,,...comenzando a derretirse dentro.
+Dialogue: 0,0:49:04.57,0:49:06.75,Default,,0,0,0,,Me salvé.
+Dialogue: 0,0:49:12.49,0:49:17.29,Default,,0,0,0,,Ahora que estoy a salvo, tengo mucha hambre.
+Dialogue: 0,0:49:58.66,0:50:02.81,Default,,0,0,0,,Parece que Gokuu está a punto de terminar.
+Dialogue: 0,0:50:03.25,0:50:07.49,Default,,0,0,0,,Muéstramelo. Yo también quiero ver.
+Dialogue: 0,0:50:07.96,0:50:08.67,Default,,0,0,0,,¡Tú!
+Dialogue: 0,0:50:08.67,0:50:12.30,Default,,0,0,0,,¿De dónde saliste?
+Dialogue: 0,0:50:12.66,0:50:14.93,Default,,0,0,0,,¡Oye, Kinkaku, Ginkaku!
+Dialogue: 0,0:50:16.75,0:50:20.43,Default,,0,0,0,,¿Bueno? ¡Digan algo!
+Dialogue: 0,0:50:23.86,0:50:26.27,Default,,0,0,0,,¡Vamos! ¡Vamos!
+Dialogue: 0,0:51:31.74,0:51:36.29,Default,,0,0,0,,Esta vez sí que te atrapamos.
+Dialogue: 0,0:51:36.29,0:51:42.02,Default,,0,0,0,,¡Está noqueado! ¡Se lo merece!
+Dialogue: 0,0:51:42.66,0:51:44.87,Default,,0,0,0,,Estoy acabado.
+Dialogue: 0,0:51:45.67,0:51:54.44,Default,,0,0,0,,Antes de morir... hay una cosa más... que quiero decir.
+Dialogue: 0,0:51:56.26,0:52:03.87,Default,,0,0,0,,Oye, ¿me escucharán? ¿Kinkaku? ¿Ginkaku?
+Dialogue: 0,0:52:04.52,0:52:06.37,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:52:14.84,0:52:16.72,Default,,0,0,0,,¡Hermanos!
+Dialogue: 0,0:52:19.93,0:52:21.59,Default,,0,0,0,,¡El monstruo!
+Dialogue: 0,0:52:21.59,0:52:23.01,Default,,0,0,0,,¡Tú eres el monstruo!
+Dialogue: 0,0:52:23.29,0:52:27.52,Default,,0,0,0,,Oye, qué lástima por ti, pero tus hermanos están aquí.
+Dialogue: 0,0:52:27.52,0:52:30.04,Default,,0,0,0,,¿Qué? ¿Mis hermanos?
+Dialogue: 0,0:52:30.83,0:52:35.41,Default,,0,0,0,,Estoy acabado. ¡Por favor, perdóname!
+Dialogue: 0,0:52:35.41,0:52:36.44,Default,,0,0,0,,¡Toma esto!
+Dialogue: 0,0:52:36.44,0:52:40.80,Default,,0,0,0,,Espera, Gokuu. Debes ser noble.
+Dialogue: 0,0:52:41.25,0:52:41.91,Default,,0,0,0,,Rin Rin...
+Dialogue: 0,0:52:41.91,0:52:45.58,Default,,0,0,0,,No soy Rin Rin. Me llamo Hakkai.
+Dialogue: 0,0:52:45.58,0:52:46.64,Default,,0,0,0,,¡Deja de hablar!
+Dialogue: 0,0:52:46.64,0:52:50.63,Default,,0,0,0,,No debes. Se rindió. Perdónalo.
+Dialogue: 0,0:52:51.28,0:52:54.25,Default,,0,0,0,,Está bien. Te perdono.
+Dialogue: 0,0:52:55.44,0:52:57.29,Default,,0,0,0,,¿Me dejarás ir?
+Dialogue: 0,0:52:58.43,0:52:59.88,Default,,0,0,0,,¡Gracias!
+Dialogue: 0,0:52:59.88,0:53:02.76,Default,,0,0,0,,Para compensar, vendrás con el Maestro.
+Dialogue: 0,0:53:04.18,0:53:05.22,Default,,0,0,0,,¿Maestro?
+Dialogue: 0,0:53:05.22,0:53:08.39,Default,,0,0,0,,¿Quién es este "Maestro"?
+Dialogue: 0,0:53:08.39,0:53:11.10,Default,,0,0,0,,El gran monje Sanzou.
+Dialogue: 0,0:53:19.46,0:53:20.28,Default,,0,0,0,,¿Hola?
+Dialogue: 0,0:53:25.78,0:53:27.04,Default,,0,0,0,,¿Es usted Gyuumaou-sama?
+Dialogue: 0,0:53:27.04,0:53:28.08,Default,,0,0,0,,¿Quién es?
+Dialogue: 0,0:53:28.42,0:53:30.79,Default,,0,0,0,,Gyuumaou-sama, soy yo, Shouryuu.
+Dialogue: 0,0:53:30.79,0:53:32.02,Default,,0,0,0,,¿Ha pasado algo?
+Dialogue: 0,0:53:32.02,0:53:32.83,Default,,0,0,0,,Sí.
+Dialogue: 0,0:53:32.83,0:53:35.41,Default,,0,0,0,,¡Encontré a uno de los compañeros del monje!
+Dialogue: 0,0:53:35.41,0:53:37.79,Default,,0,0,0,,¿Qué? ¿El monje Sanzou?
+Dialogue: 0,0:53:37.79,0:53:38.46,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:53:38.46,0:53:39.96,Default,,0,0,0,,Ya veo.
+Dialogue: 0,0:53:42.73,0:53:46.54,Default,,0,0,0,,Comer a este monje me alargará la vida 3000 años.
+Dialogue: 0,0:53:46.54,0:53:47.39,Default,,0,0,0,,¡Shouryuu!
+Dialogue: 0,0:53:47.39,0:53:48.21,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:53:48.21,0:53:51.60,Default,,0,0,0,,¡Atrápenlo ahora mismo y llévenlo a la Montaña de Fuego!
+Dialogue: 0,0:53:52.02,0:53:57.46,Default,,0,0,0,,¿Entendido? Si lo haces bien, ¡te recompensaré generosamente!
+Dialogue: 0,0:53:57.46,0:54:00.27,Default,,0,0,0,,¡Entendido! ¡Lo haré, lo haré!
+Dialogue: 0,0:54:07.07,0:54:16.54,Song,,0,0,0,,Cuando viajo con mis alegres amigos
+Dialogue: 0,0:54:17.12,0:54:22.88,Song,,0,0,0,,No puedo evitar comenzar a cantar
+Dialogue: 0,0:54:23.56,0:54:28.56,Song,,0,0,0,,Una canción sin sentido que inventaste
+Dialogue: 0,0:54:29.28,0:54:33.73,Song,,0,0,0,,Una canción sin sentido que inventé
+Dialogue: 0,0:54:48.03,0:54:49.24,Default,,0,0,0,,¡Oh, no!
+Dialogue: 0,0:55:09.91,0:55:11.39,Default,,0,0,0,,¡Kintoun!
+Dialogue: 0,0:55:51.25,0:55:52.18,Default,,0,0,0,,¿Quién está ahí?
+Dialogue: 0,0:55:53.43,0:55:55.38,Default,,0,0,0,,¿Eres tú el que secuestró al Maestro?
+Dialogue: 0,0:55:56.54,0:55:59.63,Default,,0,0,0,,Ahora, si no sales tranquilamente, ¡no te perdonaré!
+Dialogue: 0,0:56:06.89,0:56:09.93,Default,,0,0,0,,¡Si te acercas más, el monje morirá!
+Dialogue: 0,0:56:41.45,0:56:42.51,Default,,0,0,0,,¡Maestro!
+Dialogue: 0,0:56:43.74,0:56:44.72,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,0:56:45.88,0:56:46.98,Default,,0,0,0,,¡Hakkai!
+Dialogue: 0,0:56:47.47,0:56:48.66,Default,,0,0,0,,¡Hakkai!
+Dialogue: 0,0:57:30.90,0:57:31.97,Default,,0,0,0,,Rin Rin.
+Dialogue: 0,0:57:43.72,0:57:44.61,Default,,0,0,0,,Rin Rin.
+Dialogue: 0,0:57:50.10,0:57:51.07,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,0:58:21.58,0:58:24.08,Sign,,0,0,0,,Técnica del Pozo de Agua
+Dialogue: 0,0:58:21.58,0:58:23.82,Default,,0,0,0,,Agua, agua, agua...
+Dialogue: 0,0:58:38.87,0:58:41.39,Default,,0,0,0,,¡Mira! ¡Hay un oasis!
+Dialogue: 0,0:58:45.16,0:58:46.13,Default,,0,0,0,,¡Agua!
+Dialogue: 0,0:59:02.83,0:59:05.26,Default,,0,0,0,,¡Mira! ¡Hay un castillo aquí!
+Dialogue: 0,0:59:49.94,0:59:56.76,Default,,0,0,0,,Bueno, bueno, ¡por fin tendremos algo de comer!
+Dialogue: 0,0:59:57.78,1:00:02.47,Default,,0,0,0,,Me pregunto qué clase de banquete nos servirán.
+Dialogue: 0,1:00:03.07,1:00:04.77,Default,,0,0,0,,¡Tontos!
+Dialogue: 0,1:00:04.77,1:00:08.85,Default,,0,0,0,,Ustedes serán mi banquete.
+Dialogue: 0,1:00:12.14,1:00:16.77,Default,,0,0,0,,E-Este es mi castillo, el de Sa Gojou-sama.
+Dialogue: 0,1:00:17.76,1:00:20.89,Default,,0,0,0,,De los que entran...
+Dialogue: 0,1:00:21.74,1:00:24.73,Default,,0,0,0,,ninguno sale...
+Dialogue: 0,1:00:25.08,1:00:27.44,Default,,0,0,0,,¡con vida!
+Dialogue: 0,1:00:35.28,1:00:37.84,Default,,0,0,0,,¡Empezaré por este!
+Dialogue: 0,0:58:21.58,0:58:24.08,Sign,,0,0,0,,Técnica del Pozo de Agua
+Dialogue: 0,1:00:53.57,1:00:56.78,Default,,0,0,0,,¡Cómo te atreves, monstruo come-hombres!
+Dialogue: 0,1:01:57.83,1:01:59.31,Default,,0,0,0,,¡Oye, Hakkai!
+Dialogue: 0,1:02:04.59,1:02:06.86,Default,,0,0,0,,Qué tipo tan molesto.
+Dialogue: 0,1:02:07.90,1:02:10.02,Default,,0,0,0,,¡Oye! ¿Dónde está el Maestro?
+Dialogue: 0,1:02:10.02,1:02:12.30,Default,,0,0,0,,Cierto. ¿Dónde está?
+Dialogue: 0,1:02:12.30,1:02:14.26,Default,,0,0,0,,Espérenme. ¡Iré a buscarlo!
+Dialogue: 0,1:02:31.30,1:02:33.29,Default,,0,0,0,,¿Eh?
+Dialogue: 0,1:02:33.70,1:02:36.66,Default,,0,0,0,,¡Qué raro!
+Dialogue: 0,1:03:27.08,1:03:28.59,Default,,0,0,0,,¿Qué tal? ¿Te rindes?
+Dialogue: 0,1:03:28.59,1:03:34.94,Default,,0,0,0,,¡Sí! ¡Sí! ¡Basta! ¡Perdóname! ¡Sal de ahí!
+Dialogue: 0,1:03:37.98,1:03:47.62,Song,,0,0,0,,Cuando viajo con mis alegres amigos
+Dialogue: 0,1:03:47.62,1:03:53.79,Song,,0,0,0,,No puedo evitar comenzar a cantar
+Dialogue: 0,1:03:53.79,1:03:59.47,Song,,0,0,0,,Una canción sin sentido que inventaste
+Dialogue: 0,1:03:59.47,1:04:03.65,Song,,0,0,0,,Una canción sin sentido que inventé
+Dialogue: 0,1:04:21.02,1:04:23.23,Default,,0,0,0,,¡Gyuumaou-sama! ¡Gyuumaou-sama!
+Dialogue: 0,1:04:23.64,1:04:26.83,Default,,0,0,0,,¿Eres tú, Shouryuu? ¿Dónde está el monje?
+Dialogue: 0,1:04:26.83,1:04:29.30,Default,,0,0,0,,Va camino hacia usted.
+Dialogue: 0,1:04:29.30,1:04:31.24,Default,,0,0,0,,¿Por qué no lo has capturado aún?
+Dialogue: 0,1:04:31.24,1:04:35.37,Default,,0,0,0,,¡Lo siento, pero sus compañeros son muy fuertes!
+Dialogue: 0,1:04:35.37,1:04:36.43,Default,,0,0,0,,¿Cuántos son?
+Dialogue: 0,1:04:36.43,1:04:39.00,Default,,0,0,0,,¡Un mono, un cerdo y un ogro!
+Dialogue: 0,1:04:39.00,1:04:42.28,Default,,0,0,0,,¡Ponlos en contra del otro!
+Dialogue: 0,1:04:42.90,1:04:48.42,Default,,0,0,0,,¿Entiendes? ¡Conseguirás lo que quieras!
+Dialogue: 0,1:04:48.42,1:04:50.87,Default,,0,0,0,,¡Entendido! ¡Lo haré, lo haré!
+Dialogue: 0,1:05:04.27,1:05:06.52,Default,,0,0,0,,Ah, veo montañas.
+Dialogue: 0,1:05:07.35,1:05:08.74,Default,,0,0,0,,Ya casi salimos del desierto.
+Dialogue: 0,1:05:09.66,1:05:16.33,Default,,0,0,0,,Por fin... ¿y ahora montañas? Qué molestia.
+Dialogue: 0,1:05:19.75,1:05:22.47,Default,,0,0,0,,No piensas en los demás.
+Dialogue: 0,1:05:22.47,1:05:26.36,Default,,0,0,0,,¿Dónde va a dormir el Maestro?
+Dialogue: 0,1:05:28.09,1:05:29.47,Default,,0,0,0,,Ustedes dos...
+Dialogue: 0,1:05:29.47,1:05:31.34,Default,,0,0,0,,No culpen a Sa Gojou.
+Dialogue: 0,1:05:31.95,1:05:34.72,Default,,0,0,0,,Debemos estar agradecidos por haber cruzado el desierto.
+Dialogue: 0,1:05:36.78,1:05:39.73,Default,,0,0,0,,El Maestro es demasiado bueno con él.
+Dialogue: 0,1:05:39.73,1:05:41.89,Default,,0,0,0,,¡C-Calla, maldito simio!
+Dialogue: 0,1:05:42.12,1:05:42.98,Default,,0,0,0,,¿Qué?
+Dialogue: 0,1:05:42.98,1:05:49.74,Default,,0,0,0,,N-No dije nada. Es solo que... ehm...
+Dialogue: 0,1:05:49.74,1:05:53.41,Default,,0,0,0,,Es solo que el mono no entiende nada.
+Dialogue: 0,1:05:53.41,1:05:54.78,Default,,0,0,0,,¡Tú!
+Dialogue: 0,1:05:59.40,1:06:03.47,Default,,0,0,0,,¡Maldición, te lo vas a ganar!
+Dialogue: 0,1:06:32.26,1:06:33.61,Default,,0,0,0,,¡Maldito!
+Dialogue: 0,1:06:34.84,1:06:38.23,Default,,0,0,0,,¿Por qué eres tan mezquino?
+Dialogue: 0,1:06:38.82,1:06:41.12,Default,,0,0,0,,Deberían portarse como hermanos.
+Dialogue: 0,1:06:41.55,1:06:42.71,Default,,0,0,0,,Está bien.
+Dialogue: 0,1:06:43.17,1:06:45.74,Default,,0,0,0,,Entonces... llevense bien.
+Dialogue: 0,1:06:47.13,1:06:49.96,Default,,0,0,0,,Una vez crucemos esta montaña, la India estará cerca.
+Dialogue: 0,1:06:50.25,1:06:52.42,Default,,0,0,0,,Esta es la recta final.
+Dialogue: 0,1:06:53.82,1:06:55.12,Default,,0,0,0,,¡Adelante!
+Dialogue: 0,1:07:13.93,1:07:15.74,Default,,0,0,0,,¡Gyuumaou-sama!
+Dialogue: 0,1:07:15.74,1:07:19.41,Default,,0,0,0,,¡Están cayendo directamente en nuestra trampa!
+Dialogue: 0,1:07:19.61,1:07:21.53,Default,,0,0,0,,¡Perfecto!
+Dialogue: 0,1:07:22.26,1:07:24.25,Default,,0,0,0,,¡A por ellos!
+Dialogue: 0,1:07:42.93,1:07:44.42,Default,,0,0,0,,¡Una erupción!
+Dialogue: 0,1:07:44.42,1:07:45.31,Default,,0,0,0,,¡Oh, no!
+Dialogue: 0,1:08:26.60,1:08:27.97,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,1:08:27.97,1:08:31.58,Default,,0,0,0,,Por ahora estamos bien, pero el Maestro...
+Dialogue: 0,1:08:31.58,1:08:34.57,Default,,0,0,0,,T-Tenemos que cavar un agujero.
+Dialogue: 0,1:08:34.57,1:08:35.32,Default,,0,0,0,,¿Un agujero?
+Dialogue: 0,1:08:35.32,1:08:40.53,Default,,0,0,0,,S-Sí. C-Cavar un agujero y salir al otro lado.
+Dialogue: 0,1:08:40.53,1:08:43.41,Default,,0,0,0,,¡Qué complicado!
+Dialogue: 0,1:08:43.41,1:08:45.37,Default,,0,0,0,,Bueno, está bien...
+Dialogue: 0,1:08:45.93,1:08:49.92,Default,,0,0,0,,Oye, ¿hay alguna forma de salir de aquí?
+Dialogue: 0,1:08:51.25,1:08:55.55,Default,,0,0,0,,La única forma sería usar el Bashousen, un abanico en la mansión de Gyuumaou.
+Dialogue: 0,1:08:55.55,1:08:58.74,Default,,0,0,0,,¿Y dónde está la mansión de Gyuumaou?
+Dialogue: 0,1:08:59.14,1:09:00.67,Default,,0,0,0,,¡Es esa montaña de allá!
+Dialogue: 0,1:09:00.67,1:09:01.55,Default,,0,0,0,,Bien.
+Dialogue: 0,1:09:01.87,1:09:05.09,Default,,0,0,0,,Maestro, volveré pronto. ¡Hakkai, ven conmigo!
+Dialogue: 0,1:09:05.09,1:09:06.56,Default,,0,0,0,,Voy.
+Dialogue: 0,1:09:21.55,1:09:22.49,Default,,0,0,0,,Aquí es.
+Dialogue: 0,1:09:25.11,1:09:27.45,Default,,0,0,0,,Bueno, entonces regresaré.
+Dialogue: 0,1:09:27.45,1:09:29.83,Default,,0,0,0,,Que tengas un buen viaje.
+Dialogue: 0,1:09:30.92,1:09:35.59,Default,,0,0,0,,Ah, cierto, te dejaré el Bashousen contigo.
+Dialogue: 0,1:09:35.59,1:09:37.05,Default,,0,0,0,,Ese es...
+Dialogue: 0,1:09:38.21,1:09:40.84,Default,,0,0,0,,Cuento contigo.
+Dialogue: 0,1:09:40.84,1:09:43.89,Default,,0,0,0,,Por favor, cuídate.
+Dialogue: 0,1:09:51.14,1:09:52.35,Default,,0,0,0,,¡No te apresures!
+Dialogue: 0,1:09:57.48,1:09:59.93,Default,,0,0,0,,Guau.
+Dialogue: 0,1:09:59.93,1:10:02.74,Default,,0,0,0,,Tenemos que tener cuidado con eso.
+Dialogue: 0,1:10:03.63,1:10:06.24,Default,,0,0,0,,Hermano, ¡tengo una idea!
+Dialogue: 0,1:10:07.21,1:10:08.15,Default,,0,0,0,,¿Qué?
+Dialogue: 0,1:10:09.40,1:10:10.58,Default,,0,0,0,,¡Es genial!
+Dialogue: 0,1:10:11.04,1:10:15.71,Default,,0,0,0,,Como fue mi idea, yo seré el jefe.
+Dialogue: 0,1:10:15.71,1:10:18.32,Default,,0,0,0,,Está bien, como quieras.
+Dialogue: 0,1:10:32.42,1:10:34.77,Default,,0,0,0,,Vaya, regresaste rápido.
+Dialogue: 0,1:10:36.54,1:10:40.47,Default,,0,0,0,,¡Qué hermosa eres!
+Dialogue: 0,1:10:43.22,1:10:45.98,Default,,0,0,0,,¿Pasa algo?
+Dialogue: 0,1:10:45.98,1:10:47.79,Default,,0,0,0,,Ah... ehm...
+Dialogue: 0,1:10:52.32,1:10:55.27,Default,,0,0,0,,Hermano, ¡no te apresures!
+Dialogue: 0,1:10:55.27,1:10:57.27,Default,,0,0,0,,¿Dijiste algo?
+Dialogue: 0,1:10:57.27,1:10:59.08,Default,,0,0,0,,Ehm... bueno...
+Dialogue: 0,1:11:04.43,1:11:05.75,Default,,0,0,0,,¡Hakkai, apúrate!
+Dialogue: 0,1:11:05.75,1:11:06.51,Default,,0,0,0,,¡Detente!
+Dialogue: 0,1:11:35.44,1:11:39.33,Default,,0,0,0,,¡Maestro! ¡Con esto estamos salvados!
+Dialogue: 0,1:11:43.44,1:11:44.73,Default,,0,0,0,,¡Monstruo!
+Dialogue: 0,1:11:47.26,1:11:49.80,Default,,0,0,0,,¡Oye! ¿Qué hiciste con el Maestro?
+Dialogue: 0,1:11:50.11,1:11:54.21,Default,,0,0,0,,¡Gyuumaou-sama se lo llevó hace poco!
+Dialogue: 0,1:11:55.64,1:11:56.98,Default,,0,0,0,,¡Maldición!
+Dialogue: 0,1:12:11.48,1:12:12.83,Default,,0,0,0,,¡Te lo mereces!
+Dialogue: 0,1:12:42.27,1:12:47.90,Default,,0,0,0,,Gokuu. Sé fuerte, Gokuu.
+Dialogue: 0,1:12:52.81,1:12:56.67,Default,,0,0,0,,Sé fuerte, Gokuu.
+Dialogue: 0,1:12:57.31,1:12:58.91,Default,,0,0,0,,Maestro...
+Dialogue: 0,1:12:58.91,1:13:01.31,Default,,0,0,0,,Piensa en el Maestro.
+Dialogue: 0,1:13:02.15,1:13:05.57,Default,,0,0,0,,Mantente fuerte, Gokuu.
+Dialogue: 0,1:13:16.45,1:13:17.57,Default,,0,0,0,,¡Hermano!
+Dialogue: 0,1:13:17.57,1:13:18.97,Default,,0,0,0,,Sa Gojou...
+Dialogue: 0,1:13:21.10,1:13:22.30,Default,,0,0,0,,¿Dónde está el Maestro?
+Dialogue: 0,1:13:22.30,1:13:25.86,Default,,0,0,0,,G-Gyuumaou... se lo llevó.
+Dialogue: 0,1:13:26.96,1:13:29.86,Default,,0,0,0,,¡Entonces debemos salvarlo!
+Dialogue: 0,1:13:29.86,1:13:34.12,Default,,0,0,0,,Mi cuerpo... ya está...
+Dialogue: 0,1:13:34.12,1:13:38.44,Default,,0,0,0,,¡No te preocupes! ¡Yo me encargo!
+Dialogue: 0,1:15:59.16,1:16:00.55,Default,,0,0,0,,¡Bájenlos!
+Dialogue: 0,1:16:05.18,1:16:06.81,Default,,0,0,0,,¡Esto será genial!
+Dialogue: 0,1:16:26.74,1:16:29.55,Default,,0,0,0,,Seguro recuerda, Gyuumaou-sama.
+Dialogue: 0,1:16:29.55,1:16:33.09,Default,,0,0,0,,Dijo que podía tener lo que quisiera si capturaba al monje.
+Dialogue: 0,1:16:33.66,1:16:35.84,Default,,0,0,0,,No recuerdo haber dicho eso.
+Dialogue: 0,1:16:35.84,1:16:39.14,Default,,0,0,0,,¡Pero lo dijo claramente!
+Dialogue: 0,1:16:39.14,1:16:40.30,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,1:16:40.30,1:16:42.22,Default,,0,0,0,,¡Fuera!
+Dialogue: 0,1:16:42.22,1:16:44.35,Default,,0,0,0,,¡Mentiroso! ¡Eso no es justo!
+Dialogue: 0,1:16:44.58,1:16:45.96,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,1:16:45.96,1:16:50.35,Default,,0,0,0,,¡Maldición! ¡Tramposo! ¿Cómo te atreves a engañarme?
+Dialogue: 0,1:17:31.87,1:17:32.67,Default,,0,0,0,,¿Eh?
+Dialogue: 0,1:17:46.34,1:17:50.33,Default,,0,0,0,,¡E-Es él! ¡Él me congeló!
+Dialogue: 0,1:18:02.41,1:18:04.32,Default,,0,0,0,,¡Hagan lo que quieran!
+Dialogue: 0,1:18:05.06,1:18:06.62,Default,,0,0,0,,Me equivoqué.
+Dialogue: 0,1:18:06.62,1:18:09.51,Default,,0,0,0,,¡Es demasiado tarde, bastardo con cuernos!
+Dialogue: 0,1:18:09.73,1:18:10.91,Default,,0,0,0,,¡Espera!
+Dialogue: 0,1:18:10.91,1:18:11.98,Default,,0,0,0,,Sa Gojou,
+Dialogue: 0,1:18:12.19,1:18:13.81,Default,,0,0,0,,debemos perdonarlo.
+Dialogue: 0,1:18:14.50,1:18:19.03,Default,,0,0,0,,¿Pero no lo odias, hermano?
+Dialogue: 0,1:18:19.03,1:18:20.14,Default,,0,0,0,,Sí.
+Dialogue: 0,1:18:21.21,1:18:25.03,Default,,0,0,0,,Pero entiende su error.
+Dialogue: 0,1:18:26.88,1:18:28.59,Default,,0,0,0,,Vámonos, Sa Gojou.
+Dialogue: 0,1:18:30.09,1:18:32.20,Default,,0,0,0,,Qué suertudo.
+Dialogue: 0,1:18:52.72,1:18:54.57,Default,,0,0,0,,¡Espera un momento!
+Dialogue: 0,1:18:58.65,1:19:03.57,Default,,0,0,0,,Esto es medicina. Por favor, tómala.
+Dialogue: 0,1:19:04.92,1:19:06.01,Default,,0,0,0,,¡Gracias!
+Dialogue: 0,1:19:07.64,1:19:08.99,Default,,0,0,0,,¡Corten la cuerda!
+Dialogue: 0,1:19:32.71,1:19:35.14,Default,,0,0,0,,¡Chicos, mátenlos!
+Dialogue: 0,1:19:37.35,1:19:39.13,Default,,0,0,0,,¡Sa Gojou! ¡Salva al Maestro!
+Dialogue: 0,1:19:39.13,1:19:40.51,Default,,0,0,0,,¡Entendido!
+Dialogue: 0,1:23:37.25,1:23:40.91,Default,,0,0,0,,¡Maestro!
+Dialogue: 0,1:23:42.48,1:23:43.23,Default,,0,0,0,,Gracias.
+Dialogue: 0,1:23:44.24,1:23:48.49,Default,,0,0,0,,Todo gracias a ti. ¡Gracias!
+Dialogue: 0,1:25:20.34,1:25:24.66,Default,,0,0,0,,Sanzou, acepta mi alabanza.
+Dialogue: 0,1:25:26.45,1:25:32.54,Default,,0,0,0,,Todos unieron fuerzas para ayudar a Sanzou.
+Dialogue: 0,1:25:33.11,1:25:36.92,Default,,0,0,0,,Estoy muy contento.
+Dialogue: 0,1:25:37.34,1:25:41.55,Default,,0,0,0,,Gokuu, coloca tus manos sobre tu cabeza.
+Dialogue: 0,1:25:47.82,1:25:51.35,Default,,0,0,0,,¡Gracias! ¡Estoy libre!
+Dialogue: 0,1:26:30.25,1:26:31.73,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,1:26:32.22,1:26:33.32,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,1:26:33.86,1:26:35.45,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,1:26:37.36,1:26:38.93,Default,,0,0,0,,Gokuu-sama...
+Dialogue: 0,1:26:38.93,1:26:41.78,Default,,0,0,0,,¿Dónde está Rin Rin? ¿Dónde fue?
+Dialogue: 0,1:26:48.65,1:26:49.71,Default,,0,0,0,,Gokuu...
+Dialogue: 0,1:26:51.57,1:26:52.67,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,1:26:54.19,1:26:54.88,Default,,0,0,0,,Rin Rin...
+Dialogue: 0,1:26:59.60,1:27:00.84,Default,,0,0,0,,¡Gokuu!
+Dialogue: 0,1:27:00.84,1:27:01.92,Default,,0,0,0,,¡Rin Rin!
+Dialogue: 0,1:27:05.66,1:27:08.01,Default,,0,0,0,,¡Regresaste, Gokuu!
+Dialogue: 0,1:27:10.27,1:27:13.16,Default,,0,0,0,,Realmente regresaste.
+Dialogue: 0,1:27:13.16,1:27:17.81,Default,,0,0,0,,Y... y... ¿ya no te irás más, verdad?
+Dialogue: 0,1:27:17.81,1:27:21.75,Default,,0,0,0,,¡No iré a ninguna parte! ¡No me separaré de ti!
+Dialogue: 0,1:27:22.48,1:27:25.99,Default,,0,0,0,,Entonces... por favor, alégrate pronto.
+Dialogue: 0,1:27:26.70,1:27:30.66,Default,,0,0,0,,¡Lo haré! ¡Estoy segura de que me curaré!
+Dialogue: 0,1:28:15.91,1:28:22.13,Default,,0,0,0,,Fin
